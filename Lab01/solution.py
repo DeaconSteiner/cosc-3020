@@ -6,6 +6,7 @@
 
 from typing import List
 
+
 def can_meet(interval: List[List[int]]) -> bool:
     """
     Determines whether a person can attend all meetings without overlap.
@@ -20,6 +21,9 @@ def can_meet(interval: List[List[int]]) -> bool:
     bool
         True if all meetings can be attended, False otherwise.
     """
+    if not interval:
+        return True
+
     interval.sort(key=lambda x: x[0])
 
     prev = interval[0]
