@@ -1,0 +1,9 @@
+# Explanation writer documents
+*.odt
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# LibreOffice / OpenOffice lock files
+.~lock.*#
