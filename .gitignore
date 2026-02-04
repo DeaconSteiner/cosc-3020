@@ -7,3 +7,6 @@ __pycache__/
 
 # LibreOffice / OpenOffice lock files
 .~lock.*#
+
+# Submission zip files
+*.zip
