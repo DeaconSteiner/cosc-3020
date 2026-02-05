@@ -5,4 +5,4 @@ Repo for cosc3020 labs and such
 
 Lab01 - Completed: January 29, 2026
 
-Lab02 - Completed: 
+Lab02 - Completed: February 05, 2026
