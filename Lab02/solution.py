@@ -9,7 +9,7 @@ def tiler(h: int, w: int):
     side_length = Euclid(h, w)
     number_of_tiles = (h // side_length) * (w // side_length)
 
-    return (side_length, number_of_tiles)
+    return side_length, number_of_tiles
 
 
 def Euclid(a: int, b: int) -> int:
