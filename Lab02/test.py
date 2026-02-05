@@ -4,9 +4,6 @@
 # Lab02
 # 04 February, 2026
 
-from math import e
-from this import d
-
 from solution import tiler
 
 
