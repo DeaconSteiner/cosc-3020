@@ -7,7 +7,7 @@
 from typing import List
 
 # binary search helper
-def search(arr: List[int], x: int):
+def search(arr: List[int], x: int) -> bool:
     lo, hi = 0, len(arr)-1
     
     while lo <= hi:
