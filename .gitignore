@@ -1,5 +1,6 @@
 # Explanation writer documents
 *.odt
+*.docx
 
 # Python artifacts
 __pycache__/
