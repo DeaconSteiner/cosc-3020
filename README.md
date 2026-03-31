@@ -16,3 +16,5 @@ Lab05 - Completed: March 01, 2026
 Lab06 - Completed: March 06, 2026
 
 Lab07 - Completed: March 15, 2026
+
+Lab08 - Completed: March 30, 2026
